@@ -1,0 +1,6 @@
+﻿  BooksTest.cpp
+C:\Users\Kirill\my_data\work\bsuir\sem_3\ppois\lab2\lab2\BookShelf.cpp(13,27): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kirill\my_data\work\bsuir\sem_3\ppois\lab2\lab2\WareHouse.cpp(22,32): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kirill\my_data\work\bsuir\sem_3\ppois\lab2\lab2\TrashCan.cpp(6,36): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+     Создается библиотека C:\Users\Kirill\my_data\work\bsuir\sem_3\ppois\lab2\x64\Debug\BooksTest.lib и объект C:\Users\Kirill\my_data\work\bsuir\sem_3\ppois\lab2\x64\Debug\BooksTest.exp
+  BooksTest.vcxproj -> C:\Users\Kirill\my_data\work\bsuir\sem_3\ppois\lab2\x64\Debug\BooksTest.dll

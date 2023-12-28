@@ -1,0 +1,6 @@
+﻿  BookShelf.cpp
+C:\Users\Kirill\my_data\work\bsuir\sem_3\ppois\lab2\lab2\BookShelf.cpp(13,27): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+x64\Debug\BookShelf.obj : warning LNK4042: объект указан более одного раза; лишние не учитываются
+x64\Debug\Cleaner.obj : warning LNK4042: объект указан более одного раза; лишние не учитываются
+x64\Debug\WareHouse.obj : warning LNK4042: объект указан более одного раза; лишние не учитываются
+  lab2.vcxproj -> C:\Users\Kirill\my_data\work\bsuir\sem_3\ppois\lab2\x64\Debug\lab2.exe
